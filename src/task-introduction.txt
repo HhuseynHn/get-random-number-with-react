@@ -1,0 +1,5 @@
+1. App code remove Home
+2. Explore input
+3. Explore Home code
+4. Create Home css
+5. Start next project
